@@ -1,4 +1,7 @@
- AUXERON UNIVERSITY WEBSITE
+AUXERON UNIVERSITY WEBSITE
+https://olympic-brown-2k5-draft.caffeine.xyz/placements
+
+
 A Next-Generation Smart University Platform
 
 📘 PROJECT OVERVIEW
